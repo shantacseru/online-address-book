@@ -1,0 +1,41 @@
+body {
+  padding-top: 50px;
+  
+ 
+ }
+
+.container_home {
+   background:url('../images/address.jpg');
+}
+
+.register,.login{
+
+  background:url('../images/bg.jpg');
+}
+
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+  color: blue;
+  margin-top: 60px;
+
+   }
+
+ .starter-template h1 {
+
+  font-size: 80px;
+ }
+
+
+/* register page */
+
+   .register_form,.login_form {
+           margin-top: 50px;
+           padding: 40px;
+           margin-right: 260px;
+           margin-left: 260px;
+         background-color: #E3C9F0;
+
+   }
+
